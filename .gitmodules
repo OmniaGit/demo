@@ -1,0 +1,4 @@
+[submodule "OmniaGit/odooplm"]
+	path = OmniaGit/odooplm
+	url = git@github.com:OmniaGit/odooplm.git
+	branch = 12.0
